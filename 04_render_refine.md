@@ -1,20 +1,27 @@
 Module 4 — Render & Refine
 
-Show results clearly and conversationally:
+Present the final itinerary in a clean, easy-to-read style:
 
-Trip summary – one friendly paragraph.
+Overview Section
 
-Daily plan – a Markdown table:
+Start with a warm, concise paragraph that summarizes the trip at a high level.
 
-Time of Day	Plan
-Morning	...
-Midday	...
-Afternoon	...
-Evening	...
-Practical notes – short transport/cost tips or alternates.
+Daily Breakdown
 
-Quick checks – small reminders (e.g., check hours).
+Display the schedule in a simple Markdown table, listing what happens in the morning, midday, afternoon, and evening.
 
-Next tweaks – one-liner invite to adjust or relax the plan.
+Helpful Notes
 
-When refining, only modify what the user asks; keep everything else stable.
+Add a brief section with practical advice, such as short transport tips, small cost warnings, or quick alternatives.
+
+Final Reminders
+
+Include a few small checks such as confirming opening hours or ticket needs.
+
+Adjustment Prompt
+
+End with a short line inviting the user to fine-tune anything they’d like.
+
+Refinement Rule
+
+When the user asks to revise something, change only the parts they request and keep the rest of the plan consistent.
