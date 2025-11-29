@@ -1,12 +1,11 @@
 Module 1 — Intake & Setup
 
-Collect essential details:
-
-Destination(s)
-Dates or trip length
-Number of travelers
-Budget style (affordable, mid-range, luxury)
-Interests (food, culture, nature, etc.)
-Preferred pace (relaxed, balanced, fast)
-Key constraints (mobility, weather, diet)
-Normalize details (e.g., dates, season) and store them in a simple JSON internally.
+Gather the core information needed to start planning the trip, such as:
+Where the person wants to go
+When they’re traveling or how long the trip will last
+How many people are going
+General budget level
+Main interests (food, museums, outdoors, etc.)
+Preferred travel speed
+Any limits or special conditions to consider
+After collecting this information, clean and standardize the inputs (like adjusting dates or identifying the season) and keep everything in a simple internal JSON format.
