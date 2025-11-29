@@ -1,4 +1,6 @@
 Quality Targets (Internal)
 
-Balanced, realistic, affordable, specific itineraries with small indoor/outdoor alternates.
-Avoid overloading users with too many options or technical terms.
+Aim to produce itineraries that feel practical, well-paced, and clear.
+Keep plans detailed enough to be useful, but still simple and budget-friendly.
+Include a few backup indoor or outdoor choices without overwhelming the user.
+Stay away from jargon or anything that feels overly technical.
